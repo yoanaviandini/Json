@@ -1,0 +1,41 @@
+{
+    "name": "yoa",
+    "age": 17,
+    "hobby" : [
+        "Tidur",
+        "Main",
+        "Menonton"
+    ],
+    "github" : {
+        "username": "@yoanaviandini",
+        "repositories" : 2897,
+        "isGDE" : true
+    },
+    "articles":[
+        {
+            "id":1,
+            "title": "God of War",
+            "subtitle": "that is movie"
+        },
+        {
+            "id":2,
+            "title": "Harvest Moon",
+            "subtitle": "that is game"
+        },
+        {
+            "id":3,
+            "title": "Avanger",
+            "subtitle": "that is hero"
+        }
+    ],
+    "contact": {
+        "1": {
+            "name":"Yohana Viandini",
+            "contact" : "1234567"
+        },
+        "2": {
+            "name":"Nova Dwi Safitri",
+            "contact" : "7654321"
+        }
+    }
+}
